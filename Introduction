@@ -1,2 +1,0 @@
-print("-"*4, "|This Is Who I Am|", "-"*4)
-print("Bima Jati Kusuma")
